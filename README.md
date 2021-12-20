@@ -30,7 +30,7 @@ I use this incedible framework https://github.com/pmd/pmd to help me find copy p
 To Do's:
 - [ ] Use pmd to search for dead variables/functions .
 - [ ] Add Wiki
-- [ ] Finish README.md
+- [x] Finish README.md
 - [ ] Add build and test pass marks
 
 ## Installation
@@ -60,9 +60,6 @@ swift run -c release AutoCopyPaste "${xml_data}"
 ```
 
 * If you get an "error:invalid Access" error after building, just build agian it will go away. (SPM bug)
-
-## Configuration (pmd)
-Coming soon
 
 ## Author
 
