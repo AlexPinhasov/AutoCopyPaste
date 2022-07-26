@@ -63,7 +63,7 @@ swift run -c release AutoCopyPaste "${xml_data}"
 
 ## Author
 
-AlexPinhasov, alex5872205@gmail.com
+AlexPinhasov, alexp.software@gmail.com
 
 ## License
 
